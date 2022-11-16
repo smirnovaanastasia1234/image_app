@@ -7,5 +7,5 @@ Streamlit.
 
 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.
 Ссылка на развернутое приложение.
-
+https://image-classification-demo.herokuapp.com/
 Тестирование изменений без ключа SSH
